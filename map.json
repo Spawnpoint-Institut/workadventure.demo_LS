@@ -166,7 +166,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/institut-spawnpoint.de\/"
+                 "value":"https:\/\/de.wikipedia.org\/wiki\/Medienp%C3%A4dagogik"
                 }],
          "type":"tilelayer",
          "visible":true,
