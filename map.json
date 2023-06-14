@@ -361,9 +361,19 @@
                  "name":"",
                  "properties":[
                         {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/yopad.eu\/p\/SPW1"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
                         }],
                  "rotation":0,
                  "type":"",
