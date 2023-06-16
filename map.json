@@ -347,8 +347,8 @@
                  "type":"",
                  "visible":true,
                  "width":93.7162209047986,
-                 "x":480,
-                 "y":32
+                 "x":416,
+                 "y":0
                 }, 
                 {
                  "height":96,
@@ -430,17 +430,6 @@
                  "width":192,
                  "x":768,
                  "y":224
-                }, 
-                {
-                 "height":61.6673,
-                 "id":19,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":93.7162,
-                 "x":352,
-                 "y":32
                 }],
          "opacity":1,
          "type":"objectgroup",
